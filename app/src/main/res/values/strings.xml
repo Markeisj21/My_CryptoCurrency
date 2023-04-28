@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My CryptoCurrency</string>
+    <string name="coin_detail_tag_header">Tags</string>
+    <string name="details_screen_team_members">Team Members</string>
+</resources>
